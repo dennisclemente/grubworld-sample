@@ -1,0 +1,12 @@
+.toggle{
+    background-color:yellow;
+    width:      100px;
+    height:     100px; 
+}  
+.toggle.nightmode {
+     /* opacity:    0.05; */
+     /* background: url(**image url**);  */
+      background-color:black;
+      width:      100px;
+      height:     100px; 
+ }
